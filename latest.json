@@ -1,7 +1,7 @@
 {
-  "version": "ota-32-ac22a36",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-32-ac22a36/bundle.zip",
-  "sha256": "84ab32b9233a55a6e94b1103882e160a803eed862872d7f14fa25b6b3fde12e3",
+  "version": "ota-33-d9d1a00",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-33-d9d1a00/bundle.zip",
+  "sha256": "a8f777f164612987c971abd6a5a4a095c93c7afacd3d7a5530caf535edf8a461",
   "versionNativeMin": 3,
-  "heureBuild": 1792361392000
+  "heureBuild": 1792363070000
 }
