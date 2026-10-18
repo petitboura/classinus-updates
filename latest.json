@@ -1,7 +1,7 @@
 {
-  "version": "ota-22-d958cc7",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-22-d958cc7/bundle.zip",
-  "sha256": "8b422eff84dd730d562cf687d15ef6396c0dbf8bf2cae8dd8cb11bf1598f4a3e",
+  "version": "ota-23-7578800",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-23-7578800/bundle.zip",
+  "sha256": "344e6cc0c3537a0d3608699f726cb19d432a875107b68233df8da5a2f64eb2bd",
   "versionNativeMin": 3,
-  "heureBuild": 1792296387000
+  "heureBuild": 1792296714000
 }
