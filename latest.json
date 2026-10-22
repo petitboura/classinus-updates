@@ -1,7 +1,7 @@
 {
-  "version": "ota-70-e013318",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-70-e013318/bundle.zip",
-  "sha256": "4b4b64f10621a6bbd31f3604c964958299dc7e65a9abe0bb66c2a20a747db977",
+  "version": "ota-71-61450dc",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-71-61450dc/bundle.zip",
+  "sha256": "4ae088d1c8854c2ee733057bbc6377d9859d2ff474fcab6ee4b7744daa56f007",
   "versionNativeMin": 3,
-  "heureBuild": 1792709209000
+  "heureBuild": 1792712933000
 }
