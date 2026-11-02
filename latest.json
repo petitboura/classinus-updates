@@ -1,7 +1,7 @@
 {
-  "version": "ota-134-c6b8513",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-134-c6b8513/bundle.zip",
-  "sha256": "992b1f46a45fd885d16c7595abfb5b013b16beaa0d516e78852d7312ce170c7d",
+  "version": "ota-135-b8f9e98",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-135-b8f9e98/bundle.zip",
+  "sha256": "8123cdc968a5336b1ae4fe03328c335289ca3aaf2f9fa75d6e81442541861edd",
   "versionNativeMin": 3,
-  "heureBuild": 1793591342000
+  "heureBuild": 1793593873000
 }
