@@ -1,7 +1,7 @@
 {
-  "version": "ota-147-0d4db7c",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-147-0d4db7c/bundle.zip",
-  "sha256": "97c06e787d5b94aba6382f94ab0e6156f1d751ea852105943020f109dc51c385",
+  "version": "ota-148-d739f28",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-148-d739f28/bundle.zip",
+  "sha256": "310f6f9bc6606579e70736328168af5a96100b5d68a0e532a9658b2894dd3820",
   "versionNativeMin": 3,
-  "heureBuild": 1793825744000
+  "heureBuild": 1793828894000
 }
