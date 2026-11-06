@@ -1,7 +1,7 @@
 {
-  "version": "ota-159-5b213a5",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-159-5b213a5/bundle.zip",
-  "sha256": "95bf843b3d2927cd1d392eb07e06586f2a2287d8ca3d4ed9baa590a109337a17",
+  "version": "ota-160-e935100",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-160-e935100/bundle.zip",
+  "sha256": "5e6bcdc7d83eb04898d17d55996b1189a1e9adb1b7e637dac5646ca5a4e84f73",
   "versionNativeMin": 3,
-  "heureBuild": 1793954514000
+  "heureBuild": 1793954953000
 }
