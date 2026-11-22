@@ -1,7 +1,7 @@
 {
-  "version": "ota-202-4b9a605",
-  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-202-4b9a605/bundle.zip",
-  "sha256": "1e65881381eb236b02c49434355de2fc12dd1c481b9b276ec4bb2c55ee6b2e16",
+  "version": "ota-203-cbe78c6",
+  "url": "https://github.com/petitboura/classinus-updates/releases/download/ota-203-cbe78c6/bundle.zip",
+  "sha256": "9073fc896ce62382a29c07f43ba7e8b77c027089313de6976a89634454fdda59",
   "versionNativeMin": 3,
-  "heureBuild": 1795265849000
+  "heureBuild": 1795312207000
 }
